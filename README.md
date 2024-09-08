@@ -64,7 +64,7 @@
 - [都市使用分區_python_file](./UrbanLearning/final_genera2_OK.ipynb)
 
 - ![都市計畫分區256x256](./image/(1).jpg)
-- 
+ 
 ### output
 
 -  ![Alt text](./image/10-1.png)
@@ -73,7 +73,7 @@
 ### stable-diffusion
 - ![Alt text](./image/1_0000_10.png)
 - ![Alt text](./image/01.png)
-
+ ![Alt text](./image/profile2d_page-00019.jpg)
 ## XR
  ![Alt text](./image/profile2d_page-0003.jpg)
  - ![Alt text](./image/profile2d_page-0004.jpg)
