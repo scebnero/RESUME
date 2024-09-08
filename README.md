@@ -89,10 +89,11 @@
 
 ## Economic Indicator Signal Investment Strategy
 
+### https://miro.com/app/live-embed/uXjVKquZvCM=/?moveToViewport=-124748,3228,294000,339999&embedId=620886063277"
 
-- LPPLS-all ![Alt text](./image/101.jpg)
+- ### 景氣循環研究 ![Alt text](./image/101.jpg)
   
-- LPPLS-all ![Alt text](./image/103.jpg)
+- ### 景氣循環研究 ![Alt text](./image/103.jpg)
 
 
 ---
