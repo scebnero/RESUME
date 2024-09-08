@@ -129,4 +129,3 @@
 
  ![Alt text](./image/profile2d_page-0016.jpg)
  - ![Alt text](./image/profile2d_page-0017.jpg)
- - ![Alt text](./image/profile2d_page-0018.jpg)
