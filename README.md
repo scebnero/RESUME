@@ -1,44 +1,47 @@
 # RESUME
 
-SHU YEN NUNG
+- SHU YEN NUNG
 
-a17814157668@arch.nycu.edu.tw　 |   0918358930 
+- a17814157668@arch.nycu.edu.tw　 |    0918358930 
 
 
 ## EDUCATION
 
-Chung Yuan Christian University. Taoyuan, Taiwan
+- Chung Yuan Christian University. Taoyuan, Taiwan
 
-Bachelor of Architecture 
+  Bachelor of Architecture 
 
-2022/06
+  2022/06
 
 
-National Yang Ming Chiao Tung University. Hsinchu, Taiwan
+- National Yang Ming Chiao Tung University. Hsinchu, Taiwan
 
-Graduate Institute of Architecture-Digital Design Group Member
+  Graduate Institute of Architecture-Digital Design Group Member
 
-Expected 2025/06
+  Expected 2025/06
 
 
 ## SKILLS
 
-Programming: C++,python
+- Programming: C++,python
 
-Digital Design: Grasshopper , Rhino ,  Blender , Unity3D , Adobe ,p5.js
+- Digital Design: Grasshopper , Rhino ,  Blender , Unity3D , Adobe ,p5.js
 
 
 ## COURSEWORK／PROJECT HIGHLIGHTS
 
-Programming:  Application of Machine Learning in Urban Texture Recognition and Imagery Generation
+- Programming:  Application of Machine Learning in Urban Texture Recognition and Imagery Generation
 
-Digital Design: Parametric Urban Impressions, Urban Big Data Analysis and Strategic Visioning
-,VR Game Design and Scene Design , Modular Generation Design Method
+- Digital Design: Parametric Urban Impressions, Urban Big Data Analysis and Strategic Visioning
+  ,VR Game Design and Scene Design , Modular Generation Design Method
+
 
 
 ## RESEARCH / ACADEMIC PROJECTS
 
-In Progress: Exploring the Application of Four-Dimensional (Vector Space) Cross-Section Concepts in Architectural Design Methodologies
+
+- In Progress: Exploring the Application of Four-Dimensional (Vector Space) Cross-Section Concepts in Architectural Design Methodologies
+
 
 
 ## Self-introduction
