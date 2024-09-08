@@ -77,13 +77,13 @@
  ![Alt text](./image/profile2d_page-0019.jpg)
 
 ## LPPLS
-- ### LPPLS_NO_python_file [都市紋理_python_file](./LPPLS/LPPLS_2024.ipynb)
+- ### LPPLS_NOW_python_file [LPPLS_python_file_python_file](./LPPLS/LPPLS_2024.ipynb)
 -  LPPLS_NOW ![Alt text](./image/LPP1.png)
-- ### LPPLS-2022-01-05_python_file [都市紋理_python_file](./LPPLS/LPPLS_2022_01_05.ipynb)
+- ### LPPLS-2022-01-05_python_file [LPPLS_python_file](./LPPLS/LPPLS_2022_01_05.ipynb)
 -  LPPLS-2022-01-05_started ![Alt text](./image/LPP2.png)
-- ### LPPLS-2011-06-07_python_file [都市紋理_python_file](./LPPLS/LPPLS_2011_06_07.ipynb)
+- ### LPPLS-2011-06-07_python_file [LPPLS_python_file](./LPPLS/LPPLS_2011_06_07.ipynb)
 -  LPPLS-2011-06-07_started ![Alt text](./image/LPP3.png)
-- ### LPPLS-2004-03-04_python_file [都市紋理_python_file](./LPPLS/LPPLS_2004_03_04.ipynb)
+- ### LPPLS-2004-03-04_python_file [LPPLS_python_file](./LPPLS/LPPLS_2004_03_04.ipynb)
 -  LPPLS-2004-03-04_started ![Alt text](./image/LPP4.png)
 -  LPPLS-all ![Alt text](./image/102.jpg)
 
