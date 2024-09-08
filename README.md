@@ -89,7 +89,7 @@
 
 ## Economic Indicator Signal Investment Strategy
 
-### https://miro.com/app/live-embed/uXjVKquZvCM=/?moveToViewport=-124748,3228,294000,339999&embedId=620886063277"
+### https://miro.com/app/live-embed/uXjVKquZvCM=/?moveToViewport=-124748,3228,294000,339999&embedId=620886063277
 
 - ### 景氣循環研究 ![Alt text](./image/101.jpg)
   
@@ -106,9 +106,21 @@
  - ![Alt text](./image/profile2d_page-0006.jpg)
 
 ## Graduation Design
+ ![Alt text](./image/profile2d_page-0010.jpg)
+ - ![Alt text](./image/profile2d_page-0011.jpg)
+ - ![Alt text](./image/profile2d_page-0012.jpg)
+
+
+## Digital Architeture Competition
+
+ ![Alt text](./image/profile2d_page-0007.jpg)
+ - ![Alt text](./image/profile2d_page-0008.jpg)
+ - ![Alt text](./image/profile2d_page-0009.jpg)
 
 
 
+## Big Data
 
-
-## Graduation Design
+ ![Alt text](./image/profile2d_page-0016.jpg)
+ - ![Alt text](./image/profile2d_page-0017.jpg)
+ - ![Alt text](./image/profile2d_page-0018.jpg)
