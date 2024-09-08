@@ -59,21 +59,30 @@
 
 - [都市紋理_python_file](./UrbanLearning/final_general_2_OK.ipynb)
 
-- ![原始圖片256x256](./image/1.jpg)
+- 原始圖片256x256 ![原始圖片256x256](./image/1.jpg)
 
 - [都市使用分區_python_file](./UrbanLearning/final_genera2_OK.ipynb)
 
-- ![都市計畫分區256x256](./image/(1).jpg)
+- 都市計畫分區256x256 ![都市計畫分區256x256](./image/(1).jpg)
  
 ### output
 
--  ![Alt text](./image/10-1.png)
--  ![Alt text](./image/10.png)
+-  pix2pix_output ![Alt text](./image/10-1.png)
+-  pix2pix_output ![Alt text](./image/10.png)
 
-### stable-diffusion
-- ![Alt text](./image/1_0000_10.png)
-- ![Alt text](./image/01.png)
- ![Alt text](./image/profile2d_page-00019.jpg)
+### stable-diffusion-lora
+- stable-diffusion-lora_output ![Alt text](./image/1_0000_10.png)
+- stable-diffusion-lora_output ![Alt text](./image/01.png)
+
+ ![Alt text](./image/profile2d_page-0019.jpg)
+
+## LPPLS
+-  LPPLS_NOW ![Alt text](./image/LPP1.png)
+-  LPPLS-2022-01-05_started ![Alt text](./image/LPP2.png)
+-  LPPLS-2011-06-07_started ![Alt text](./image/LPP3.png)
+-  LPPLS-2004-03-04_started ![Alt text](./image/LPP4.png)
+-  LPPLS-all ![Alt text](./image/102.jpg)
+ 
 ## XR
  ![Alt text](./image/profile2d_page-0003.jpg)
  - ![Alt text](./image/profile2d_page-0004.jpg)
