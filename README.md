@@ -57,19 +57,22 @@
 
 ## Urban Learning
 
-- [都市紋理](./UrbanLearning/final_general_2_OK.ipynb)
+- [都市紋理_python_file](./UrbanLearning/final_general_2_OK.ipynb)
 
-- ![原始圖片256x256](./image/1.jng)
+- ![原始圖片256x256](./image/1.jpg)
 
-- [都市使用分區](./UrbanLearning/final_genera2_OK.ipynb)
+- [都市使用分區_python_file](./UrbanLearning/final_genera2_OK.ipynb)
 
-- ![都市計畫分區256x256](./image/(1).jng)
+- ![都市計畫分區256x256](./image/(1).jpg)
+- 
+### output
 
 -  ![Alt text](./image/10-1.png)
 -  ![Alt text](./image/10.png)
 
-
-
+### stable-diffusion
+- ![Alt text](./image/1_0000_10.png)
+- ![Alt text](./image/01.png)
 
 ## XR
  ![Alt text](./image/profile2d_page-0003.jpg)
