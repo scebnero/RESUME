@@ -56,8 +56,10 @@
  ![Alt text](./image/profile2d_page-0002.jpg)
 
 ## Urban Learning
-[python_file](./Urban Learning/final_general_2_OK.ipynb)
-[python_file](./Urban Learning/final_general_2_OK.ipynb)
+[原始圖片256x256](./UrbanLearning/final_general_2_OK.ipynb)
+
+[都市計畫分區256x256](./UrbanLearning/final_genera2_OK.ipynb)
+
 
  ![Alt text](./image/profile2d_page-0019)
 
