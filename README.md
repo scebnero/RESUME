@@ -59,11 +59,11 @@
 
 - [都市紋理](./UrbanLearning/final_general_2_OK.ipynb)
 
-- ![原始圖片256x256](./image/1.png)
+- ![原始圖片256x256](./image/1.jng)
 
 - [都市使用分區](./UrbanLearning/final_genera2_OK.ipynb)
 
-- ![都市計畫分區256x256](./image/(1).png)
+- ![都市計畫分區256x256](./image/(1).jng)
 
 -  ![Alt text](./image/10-1.png)
 -  ![Alt text](./image/10.png)
