@@ -57,11 +57,11 @@
 
 ## Urban Learning
 
-- [都市紋理_python_file](./UrbanLearning/final_general_2_OK.ipynb)
+- ### 都市紋理_python_file [都市紋理_python_file](./UrbanLearning/final_general_2_OK.ipynb)
 
 - 原始圖片256x256 ![原始圖片256x256](./image/1.jpg)
 
-- [都市使用分區_python_file](./UrbanLearning/final_genera2_OK.ipynb)
+- ### 都市使用分區_python_file[都市使用分區_python_file](./UrbanLearning/final_genera2_OK.ipynb)
 
 - 都市計畫分區256x256 ![都市計畫分區256x256](./image/(1).jpg)
  
@@ -77,12 +77,27 @@
  ![Alt text](./image/profile2d_page-0019.jpg)
 
 ## LPPLS
+- ### LPPLS_NO_python_file [都市紋理_python_file](./LPPLS/LPPLS_2024.ipynb)
 -  LPPLS_NOW ![Alt text](./image/LPP1.png)
+- ### LPPLS-2022-01-05_python_file [都市紋理_python_file](./LPPLS/LPPLS_2022_01_05.ipynb)
 -  LPPLS-2022-01-05_started ![Alt text](./image/LPP2.png)
+- ### LPPLS-2011-06-07_python_file [都市紋理_python_file](./LPPLS/LPPLS_2011_06_07.ipynb)
 -  LPPLS-2011-06-07_started ![Alt text](./image/LPP3.png)
+- ### LPPLS-2004-03-04_python_file [都市紋理_python_file](./LPPLS/LPPLS_2004_03_04.ipynb)
 -  LPPLS-2004-03-04_started ![Alt text](./image/LPP4.png)
 -  LPPLS-all ![Alt text](./image/102.jpg)
- 
+
+## Economic Indicator Signal Investment Strategy
+
+
+- LPPLS-all ![Alt text](./image/101.jpg)
+  
+- LPPLS-all ![Alt text](./image/103.jpg)
+
+
+---
+---
+---
 ## XR
  ![Alt text](./image/profile2d_page-0003.jpg)
  - ![Alt text](./image/profile2d_page-0004.jpg)
