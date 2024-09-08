@@ -53,4 +53,27 @@
 
  ## Profile
 
- 
+ ![Alt text](./image/profile2d_page-0002.jpg)
+
+## Urban Learning
+[python_file](./Urban Learning/final_general_2_OK.ipynb)
+[python_file](./Urban Learning/final_general_2_OK.ipynb)
+
+ ![Alt text](./image/profile2d_page-0019)
+
+
+
+
+## XR
+ ![Alt text](./image/profile2d_page-0003.jpg)
+ - ![Alt text](./image/profile2d_page-0004.jpg)
+ - ![Alt text](./image/profile2d_page-0005.jpg)
+ - ![Alt text](./image/profile2d_page-0006.jpg)
+
+## Graduation Design
+
+
+
+
+
+## Graduation Design
